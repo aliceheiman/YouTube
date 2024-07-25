@@ -12,7 +12,7 @@ pip install command:
 
 `pip install --upgrade --quiet  langchain langchain-community langchainhub langchain-openai langchain-chroma bs4`
 
-### Sources Mentioned
+### References
 
 - [Quickstart for Question Answering](https://python.langchain.com/v0.1/docs/use_cases/question_answering/quickstart/)
 - [Use OpenAI Embeddings with Chroma](https://python.langchain.com/v0.2/docs/integrations/vectorstores/chroma/#use-openai-embeddings)
